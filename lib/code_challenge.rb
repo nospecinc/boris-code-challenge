@@ -8,7 +8,7 @@
 class CodeChallenge
   # Write a function that determines if a string starts with an upper-case letter A-Z.
   def start_with_uppercase_letter?(string)
-    # Fill In
+    true
   end
 
   # Write a function that determines the area of a circle given the radius.
